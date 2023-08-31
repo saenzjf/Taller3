@@ -3,6 +3,6 @@
 Sistema bancario que incluye una interfaz para representar cuentas bancarias.
 
 Tiene:
-- `CuantaBancariaBase` como Abstracta.
+- `CuentaBancariaBase` como Abstracta.
 - `CuentaAhorros` y `CuentaCorriente` como Concretas.
 
