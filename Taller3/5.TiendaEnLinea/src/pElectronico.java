@@ -1,3 +1,6 @@
-public abstract class pElectronico {
-    
+public abstract class pElectronico extends ProductoAbstracto {
+
+    public pElectronico(int numeroDeSerie){
+        super(numeroDeSerie);
+    }
 }
